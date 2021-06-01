@@ -1,0 +1,9 @@
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterAgentLibrary\bin\Debug\netcoreapp3.1\PrinterAgentLibrary.deps.json
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterAgentLibrary\bin\Debug\netcoreapp3.1\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterAgentLibrary\bin\Debug\netcoreapp3.1\PrinterAgentLibrary.pdb
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterAgentLibrary\obj\Debug\netcoreapp3.1\PrinterAgentLibrary.csprojAssemblyReference.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterAgentLibrary\obj\Debug\netcoreapp3.1\PrinterAgentLibrary.AssemblyInfoInputs.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterAgentLibrary\obj\Debug\netcoreapp3.1\PrinterAgentLibrary.AssemblyInfo.cs
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterAgentLibrary\obj\Debug\netcoreapp3.1\PrinterAgentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterAgentLibrary\obj\Debug\netcoreapp3.1\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterAgentLibrary\obj\Debug\netcoreapp3.1\PrinterAgentLibrary.pdb

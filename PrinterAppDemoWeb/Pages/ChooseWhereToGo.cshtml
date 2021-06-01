@@ -1,0 +1,73 @@
+﻿@page
+@model PrinterApplicationWebUI.Pages.ChooseWhereToGoModel
+@{
+}
+
+<script src="https://kit.fontawesome.com/3a1451b7ba.js" crossorigin="anonymous"></script>
+
+<style>
+
+    body {
+        background-color: black;
+    }
+    .h1Style {
+        text-align: center;
+        margin-top: 80px;
+        font-size: 65px;
+        margin-bottom: 80px;
+        color: white;
+    }
+
+    .divStyle {
+        margin-top: 130px;
+    }
+
+    .img1:hover {
+        border: 1px solid;
+        border-color: darkorange;
+        padding: 4px 4px 4px 4px;
+    }
+
+    .img2:hover {
+        border: 1px solid;
+        border-color: darkorange;
+        padding: 4px 4px 4px 4px;
+    }
+
+    .img3:hover {
+        border: 1px solid;
+        border-color: darkorange;
+        padding: 4px 4px 4px 4px;
+
+    }
+
+</style>
+
+<h1 class="h1Style" style="font-size: 55px; margin-top: 120px;">WHAT'S YOUR NEXT PAGE?</h1>
+
+
+<div class="divStyle" style="width: auto; height: auto; margin-bottom: 20em;">
+    <a href="/AddNewPrinter">
+        <i class="far fa-plus-square img1" style="color: white; font-size: 130px; width: 33%; height: auto; text-align: center;"></i>
+    </a>
+    <a href="/Index">
+        <i class="fas fa-home img2" style="color: white; font-size: 130px; width: 33%; height: auto; text-align: center;"></i>
+    </a>
+    <a href="/Status">
+        <i class="fas fa-tachometer-alt img3" style="color: white; font-size: 130px; width: 33%; height: auto; text-align: center;"></i>
+    </a>
+</div>
+
+
+@*<div class="divStyle">
+    <a href="/AddNewPrinter">
+        <img class="img1" style="margin-right: 150px; margin-left: 65px;" src="../css/img/KeepAdding.jpg"/>
+    </a>
+    <a href="/Index">
+        <img class="img2" style="margin-right: 150px;" src="../css/img/HomePage.jpg"/>
+    </a>
+    <a href="/Status">
+        <img class="img3" src="../css/img/CheckStatus.jpg"/>
+    </a>
+</div>*@
+

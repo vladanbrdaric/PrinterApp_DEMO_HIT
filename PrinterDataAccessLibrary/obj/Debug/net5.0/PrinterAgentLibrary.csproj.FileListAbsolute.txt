@@ -1,0 +1,84 @@
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.deps.json
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.pdb
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csprojAssemblyReference.cache
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfoInputs.cache
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfo.cs
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.pdb
+C:\Users\vladan\Desktop\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.deps.json
+C:\Users\vladan\Desktop\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\vladan\Desktop\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\vladan\Desktop\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.pdb
+C:\Users\vladan\Desktop\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csprojAssemblyReference.cache
+C:\Users\vladan\Desktop\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladan\Desktop\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfoInputs.cache
+C:\Users\vladan\Desktop\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfo.cs
+C:\Users\vladan\Desktop\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vladan\Desktop\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\vladan\Desktop\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\vladan\Desktop\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.pdb
+C:\Users\Vlado\Desktop\test\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.deps.json
+C:\Users\Vlado\Desktop\test\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\test\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\test\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.pdb
+C:\Users\Vlado\Desktop\test\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csprojAssemblyReference.cache
+C:\Users\Vlado\Desktop\test\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlado\Desktop\test\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfoInputs.cache
+C:\Users\Vlado\Desktop\test\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfo.cs
+C:\Users\Vlado\Desktop\test\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vlado\Desktop\test\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\test\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\test\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.pdb
+C:\Users\Vlado\Desktop\PrinterApp DEMO\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.deps.json
+C:\Users\Vlado\Desktop\PrinterApp DEMO\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterApp DEMO\PrinterDataAccessLibrary\bin\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterApp DEMO\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.pdb
+C:\Users\Vlado\Desktop\PrinterApp DEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csprojAssemblyReference.cache
+C:\Users\Vlado\Desktop\PrinterApp DEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlado\Desktop\PrinterApp DEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfoInputs.cache
+C:\Users\Vlado\Desktop\PrinterApp DEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfo.cs
+C:\Users\Vlado\Desktop\PrinterApp DEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vlado\Desktop\PrinterApp DEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterApp DEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterApp DEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.pdb
+C:\Users\Vlado\Desktop\PrinterAppDEMO\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.deps.json
+C:\Users\Vlado\Desktop\PrinterAppDEMO\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO\PrinterDataAccessLibrary\bin\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.pdb
+C:\Users\Vlado\Desktop\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csprojAssemblyReference.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlado\Desktop\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfoInputs.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfo.cs
+C:\Users\Vlado\Desktop\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.pdb
+C:\Users\Vlado\Desktop\PrinterAppDEMO\New folder\PrinterAppDEMO\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.deps.json
+C:\Users\Vlado\Desktop\PrinterAppDEMO\New folder\PrinterAppDEMO\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO\New folder\PrinterAppDEMO\PrinterDataAccessLibrary\bin\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO\New folder\PrinterAppDEMO\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.pdb
+C:\Users\Vlado\Desktop\PrinterAppDEMO\New folder\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csprojAssemblyReference.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO\New folder\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlado\Desktop\PrinterAppDEMO\New folder\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfoInputs.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO\New folder\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfo.cs
+C:\Users\Vlado\Desktop\PrinterAppDEMO\New folder\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO\New folder\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO\New folder\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO\New folder\PrinterAppDEMO\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.pdb
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.deps.json
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\bin\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentLibrary.pdb
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csprojAssemblyReference.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfoInputs.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.AssemblyInfo.cs
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\ref\PrinterAgentLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentLibrary.pdb

@@ -1,0 +1,195 @@
+﻿@*@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>*@
+
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<style>
+
+    body {
+        background-color: black;
+    }
+
+    .h1style {
+        margin-top: 75px;
+        margin-bottom: 80px;
+        font-size: 45px;
+        color: white
+    }
+
+    .p1style {
+        margin-bottom: 40px;
+        text-align: left;
+        
+        
+        margin-top: 100px;
+        color: white
+
+    }
+
+    .p2style {
+        
+        margin-bottom: 40px;
+        text-align: left;
+
+        background-color: black;
+    }
+
+    .p1style,.p2style {
+        text-align: justify;
+        color: white;
+        font-size: 23px;
+    }
+
+    .divStyle {
+        height: 300px;
+        width: 700px;
+        background-color: red;
+    }
+
+    .imgStyle {
+/*       width: 400px;
+        height: 200px;*/
+        height: 450px;
+        width: 1000px;
+        margin-top: 5px;
+        /*background-color: blue;*/
+    }
+</style>
+
+
+<div class="text-center">
+    @*<h1 class="h1style">Printer Application Demo</h1>*@
+    <h1 class="h1style" style="font-size: 55px; margin-top: 120px;">PRINTER APPLICATION DEMO</h1>
+
+    <p class="p1style">
+        This application allows the user to retrieve a lot of different values from the objects, in my case printers are maintained by the SNMP agent. 
+        Pictures below represent a "step by step" overview of how this application works. There is also a 'CI/CD' menu choice where you can see how I automated this
+        whole process from the development (when I write code in Visual Studio) to deployment (when the application is in real prodution environment and it's accessable to anybody in the world).
+        Check the 'CI/CD' page for more information.
+    </p>
+
+    <p class="p2style">
+        First picture is showing a few different components that this application has. 
+        As you can see, main components of this application are an API which is playing a key role in this whole project. 
+        There is also an 'SQL server' database, 'Data Access' layer that contains two methods for saving/processing data and loading data from database. 
+        The other layer is my 'Business Logic' which has all the necessary methods and queries that this application uses. 
+        User interface is actually what the user sees and interact with. 
+        UI has no direct access to the database, and everything goes through the API, 
+        which means that I can easily change ASP.NET Razor pages against desktop application or maybe 'React.js'.
+    </p>
+
+    <p class="p2style" style="margin-top: -20px;">
+        Printer agent should be installed on the printer server and it should have access to all printers locally. 
+        In real life it should communicate with the API through websockets and it will represent a client while API represent a server.
+    </p>
+
+    <!-- Picture 1-->
+    <div style=" width:auto; height: auto;">
+        <img src="/css/img/image1.jpg" style="max-width: 100%; height: auto; border: solid 1px black;" alt="image1.jpg" />
+    </div>
+
+    <p class="p2style" style="margin-top: 80px;">
+        When the user starts the application for the first time, he/she should add a new printer. 
+        So when "Add New" button has been pressed it'll redirect the user to a new page where the user has to provide 
+        a printer local "IP address", a "Location" (e.g. 'IT department') and a short "Description" (e.g. 'Laser printer') about the printer. 
+        Each time when user add a new printer and press the "Save" button it will be redirected to a new page where he/she can choose between three alternatives, 
+        to keep adding printers, return to a home page or see the status of all available printers. 
+        The thing that the user can't see is when 'Save' button has been pressed 
+        it will trigger an HttpPost request inside the API which will store provided information to the database
+    </p>
+
+    <!--Picture 2-->
+    <div style=" width:auto; height: auto;">
+        <img src="/css/img/image2.jpg" style="max-width: 100%; height: auto; border: solid 1px black;" alt="image2.jpg" />
+    </div>
+
+    <p class="p2style" style="margin-top: 80px;">
+        As I mentioned before, the new page allows you to choose between three options. 
+        When you finally press "Check Status" it triggers a HttpGet request and inside API it’ll run a method 
+        that will find and get all IP addresses that are stored in the database (in this demo case it's only one IP address inside the database. 
+        Once the API has that IP address it will send it to the 'Agent' which will run all predefined methods against the printer 
+        that has that particular local IP address. Methods inside the agent contains all kind of different SNMP Get requests 
+        and those will be run one by one asynchronously and the 'Agent' will wait until all the methods complete their tasks.
+    </p>
+
+
+
+    <!--Picture 3-->
+    <div style=" width:auto; height: auto;">
+        <img src="/css/img/image3.jpg" style="max-width: 100%; height: auto; border: solid 1px black;" alt="image3.jpg" />
+    </div>
+
+
+    <p class="p2style" style="margin-top: 80px;">
+        Once all tasks have been completed all the retrieved information will be sent back to the API, 
+        which will forward those (with help of business logic and data access methods) right into the database.
+    </p>
+    <!--Picture 4-->
+    <div style=" width:auto; height: auto;">
+        <img src="/css/img/image4.jpg" style="max-width: 100%; height: auto; border: solid 1px black;" alt="image4.jpg" />
+    </div>
+
+    <p class="p2style" style="margin-top: 80px;">
+        The last step is to get all information from the database and present them to the user. 
+        Pictures are unfortunately too small for all data to be shown and that's why you should click on the "To the top of the page" link that will take you to the
+        top of the page. Press "Check Status" button on the menu line and see the final result of this application. 
+        In this demo application you don't have to add any printer in the beginning because I already added some example printers. 
+        But I recommend you to go to that page and try it out, because when you press the 'save' button you will reach one page that is not accessable in some other way.
+        Depending on the level of toners and trays the 'State' column will change between 'Running', 'Warning' and 'Down', and column 'Device Status' between 'OK' and 'ERROR'
+        if the printer is unreachable.
+    </p>
+    <!--Picture 5-->
+    <div style=" width:auto; height: auto; margin-bottom: 80px;">
+        <img src="/css/img/image5.jpg" style="max-width: 100%; height: auto; border: solid 1px black;" alt="image5.jpg" />
+    </div>
+
+    <a href="/Index"><p style="width: auto; color: white; text-align: center; height: auto; margin-bottom: 80px; font-weight: bold; font-size: 25px;"> >>> To the top of the page <<< </p></a>
+
+    <!--SLIDE SHOW -->
+    <!--<div class="container">-->
+        @*<img name="slide" width="400" height="200" />*@
+        <!--<img name="slide" class="imgStyle" />
+
+        <script>
+            var i = 0; // start point
+            var images = [];
+            var time = 3000;
+
+            // Image list
+            images[0] = '../css/img/image1.jpg'
+            images[1] = '../css/img/image2.jpg'
+            images[2] = '../css/img/image3.jpg'
+            images[3] = '../css/img/image4.jpg'
+
+            // Change Image
+            function changeImg() {
+                document.slide.src = images[i];
+
+                if (i < images.length - 1) {
+                    i++;
+                } else {
+                    i = 0;
+                }
+
+                setTimeout("changeImg()", time);
+            }
+
+            window.onload = changeImg;
+
+        </script>
+
+    </div>-->
+</div>

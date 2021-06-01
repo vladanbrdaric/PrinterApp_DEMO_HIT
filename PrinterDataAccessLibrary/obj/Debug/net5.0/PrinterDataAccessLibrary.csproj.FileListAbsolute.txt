@@ -1,0 +1,12 @@
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterDataAccessLibrary.deps.json
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterDataAccessLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\bin\Debug\net5.0\ref\PrinterDataAccessLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterDataAccessLibrary.pdb
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterDataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterDataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterDataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterDataAccessLibrary.AssemblyInfo.cs
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterDataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterDataAccessLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\ref\PrinterDataAccessLibrary.dll
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterDataAccessLibrary.pdb

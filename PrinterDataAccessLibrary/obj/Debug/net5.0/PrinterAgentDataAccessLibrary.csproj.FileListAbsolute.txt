@@ -1,0 +1,12 @@
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentDataAccessLibrary.deps.json
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentDataAccessLibrary.dll
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\ref\PrinterAgentDataAccessLibrary.dll
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\bin\Debug\net5.0\PrinterAgentDataAccessLibrary.pdb
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentDataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentDataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentDataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentDataAccessLibrary.AssemblyInfo.cs
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentDataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentDataAccessLibrary.dll
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\ref\PrinterAgentDataAccessLibrary.dll
+C:\Users\Vlado\OneDrive\C# Projects\PrinterApplication\PrinterDataAccessLibrary\obj\Debug\net5.0\PrinterAgentDataAccessLibrary.pdb

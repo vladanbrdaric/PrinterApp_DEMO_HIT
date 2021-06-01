@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PrinterAgentDataAccessLibrary/1.0.0": {
+        "dependencies": {
+          "SnmpSharpNet-core": "1.0.0"
+        },
+        "runtime": {
+          "PrinterAgentDataAccessLibrary.dll": {}
+        }
+      },
+      "SnmpSharpNet-core/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/SnmpSharpNetCore.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrinterAgentDataAccessLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SnmpSharpNet-core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P7PRyKnd6MfmvMvoYQdOwBQm5JRIWL80229gpGA88x8Anx7ofH1jbzDTfp84RxuspjvSzB5H+IipBhXSHozL6w==",
+      "path": "snmpsharpnet-core/1.0.0",
+      "hashPath": "snmpsharpnet-core.1.0.0.nupkg.sha512"
+    }
+  }
+}

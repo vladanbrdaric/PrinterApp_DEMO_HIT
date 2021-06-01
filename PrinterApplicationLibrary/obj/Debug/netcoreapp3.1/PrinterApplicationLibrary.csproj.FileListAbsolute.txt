@@ -1,0 +1,4 @@
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterApplicationLibrary\obj\Debug\netcoreapp3.1\PrinterApplicationLibrary.csprojAssemblyReference.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterApplicationLibrary\obj\Debug\netcoreapp3.1\PrinterApplicationLibrary.AssemblyInfoInputs.cache
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterApplicationLibrary\obj\Debug\netcoreapp3.1\PrinterApplicationLibrary.AssemblyInfo.cs
+C:\Users\Vlado\Desktop\PrinterAppDEMO_HIT\PrinterApplicationLibrary\obj\Debug\netcoreapp3.1\PrinterApplicationLibrary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5oaikama7th5ljzOp3enAqGdfC7InfKjb1prKzvSCzOMlJUh13UUU4BozmC4iB5tjL0RTUlIl0Ltt6YLU8YgnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vlado\\Desktop\\PrinterAppDEMO_HIT\\PrinterApplicationLibrary\\PrinterApplicationLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vlado\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\Vlado\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vlado\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vlado\\.nuget\\packages\\snmpsharpnet-core\\1.0.0\\snmpsharpnet-core.1.0.0.nupkg.sha512",
+    "C:\\Users\\Vlado\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.114.2\\stub.system.data.sqlite.core.netstandard.1.0.114.2.nupkg.sha512",
+    "C:\\Users\\Vlado\\.nuget\\packages\\system.data.sqlite.core\\1.0.114.2\\system.data.sqlite.core.1.0.114.2.nupkg.sha512"
+  ],
+  "logs": []
+}

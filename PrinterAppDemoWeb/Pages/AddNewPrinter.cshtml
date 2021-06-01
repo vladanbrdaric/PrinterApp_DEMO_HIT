@@ -1,0 +1,153 @@
+﻿@page
+@model PrinterAppDemoWeb.Pages.AddNewPrinterModel
+@{
+}
+
+
+
+
+<style>
+    .h1style {
+        margin-top: 75px;
+        margin-bottom: 80px;
+        font-size: 45px;
+    }
+
+    .p1style {
+        margin-bottom: 40px;
+        text-align: left
+    }
+
+    .p2style {
+        
+        margin-bottom: 40px;
+        text-align: left
+    }
+
+    .p1style,.p2style {
+        text-align: justify;
+    }
+
+    .divStyle {
+        height: 300px;
+        width: 700px;
+        background-color: red;
+    }
+
+    .imgStyle {
+        /*width: 400px;
+        height: 200px;*/
+        height: 450px;
+        width: 1000px;
+        margin-top: 5px;
+        /*background-color: blue;*/
+    }
+
+
+    body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: black;
+
+    }
+
+    .contact-title {
+        margin-top: 100px;
+        font-family: Bahnschrift;   /**/
+        color: white;
+        text-transform: uppercase;  /*sva slova uppercase*/
+        transition: all 2s ease-in-out; /*slova se pojave*/
+    }
+
+    .contact-title h1 {
+        font-size: 32px;
+        line-height: 10px;
+    }
+
+    .contact-title h2 {
+        font-size: 16px;
+    }
+
+    form {
+        margin-top: 50px;
+        transition: all 2s ease-in-out;
+    }
+
+    .form-control {
+        /*width: 600px;*/
+        background: transparent;
+        border: none;
+        outline: none;
+        border-bottom: 1px solid gray;
+        color: #fff;
+        font-size: 25px;
+        margin-bottom: 16px;
+    }
+
+    input {
+        height: 45px;
+    }
+
+    form .submit {
+        background: #ff5722;
+        border-color: transparent;
+        color: #fff;
+        font-size: 27px;
+        font-weight: bold;
+        letter-spacing: 2px;
+        height: 50px;
+        margin-top: 20px;
+    }
+
+    form .submit:hover{
+        background-color: #f44336;
+        cursor: pointer;
+    }
+
+</style>
+
+
+
+<div class="contact-title">
+    <h1 style="font-size: 40px; margin-top: 160px; margin-bottom: 20px; text-align: center;">Add new Printer</h1>
+</div>
+
+<div style="width: 60%; height: auto; border: 1px solid black; margin-left: 20%; margin-bottom: 10em;">
+
+    <form id="contact-form" method="post" action="">
+        <input type="text" asp-for="@Model.IpAddress" class="form-control" placeholder="IP Address" /><br />
+
+        <input type="text" asp-for="@Model.Location" class="form-control" placeholder="Location" /><br />
+
+        <input type="text" asp-for="@Model.Description" class="form-control" placeholder="Description" /><br />
+
+        <input type="submit" class="form-control submit" value="SAVE" />
+    </form>
+
+</div>
+
+    @*<form method="post" style="max-width: 80%; height: auto; margin-top: 8%; margin-bottom: 8%;">
+        <div style="max-width: 80%; max-height: 80%; margin-left: 26%; margin-top: 5%">
+            <div class="form-group">
+                <label asp-for="@Model.IpAddress" style="margin-right: 47px;">Printer IP Address</label>
+                <input type="text" asp-for="@Model.IpAddress" /><br />
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Location" style="margin-right: 60px;">Printer Location</label>
+                <input type="text" asp-for="@Model.Location" /><br />
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Description" style="margin-right: 40px;">Printer Description</label>
+                <input type="text" asp-for="@Model.Description" /><br />
+            </div>
+            <div style="max-width: 100%; max-height: 100%; margin-bottom: 5%;">
+                <button class="btn btn-primary" type="submit" style="margin-top: 28px; margin-left: 37%; font-size: 22px; width: 110px;">SAVE</button>
+            </div>
+        </div>
+
+
+    </form>*@
+    
+
+
